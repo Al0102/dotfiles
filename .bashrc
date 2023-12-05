@@ -1,0 +1,1 @@
+source ~/bashmarks/bashmarks.sh
